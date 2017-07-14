@@ -1,0 +1,6 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 2 - Data Types\Tech-Academy-Calculator-Drill\CalculatorDrill\CalculatorDrill\bin\CalculatorDrill.dll.config
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 2 - Data Types\Tech-Academy-Calculator-Drill\CalculatorDrill\CalculatorDrill\bin\CalculatorDrill.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 2 - Data Types\Tech-Academy-Calculator-Drill\CalculatorDrill\CalculatorDrill\bin\CalculatorDrill.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 2 - Data Types\Tech-Academy-Calculator-Drill\CalculatorDrill\CalculatorDrill\obj\Debug\CalculatorDrill.csprojResolveAssemblyReference.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 2 - Data Types\Tech-Academy-Calculator-Drill\CalculatorDrill\CalculatorDrill\obj\Debug\CalculatorDrill.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 2 - Data Types\Tech-Academy-Calculator-Drill\CalculatorDrill\CalculatorDrill\obj\Debug\CalculatorDrill.pdb
